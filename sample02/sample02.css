@@ -1,0 +1,27 @@
+:root{
+    --corPadrao: #ff7700;
+}
+
+body{
+    color: brown;
+}
+
+/* CRIACAO CLASSE */
+.grupo01{
+    color: blue;
+    font-size: 8px;
+}
+
+/* 'em' = proporcional ao tamanho classe padrao */
+.grupo01 p{
+    font-size: 2em;
+}
+
+p{
+    font-size: 32px;
+}
+
+/*CRIACAO ID*/
+#linha01{
+    color:var(--corPadrao);
+}

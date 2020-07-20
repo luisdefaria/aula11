@@ -1,0 +1,15 @@
+h1{
+    background-color: red;
+    padding-left: 15px;
+    border-color: black;
+    border-style: solid;
+    border-width: 4px;
+    margin-left: 15px;
+}
+
+p{
+    background-color: blue;
+    color: white;
+    padding: 15px 10px 15px 10px; /*TOP, RIGHT, BOTTOM, LEFT*/
+    margin-top: 30px;
+}
